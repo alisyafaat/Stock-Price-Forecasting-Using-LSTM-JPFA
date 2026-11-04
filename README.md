@@ -109,7 +109,7 @@ The following visualization presents the forecasting results generated using the
 
 
 
-![JPFA Stock Price Forecasting](images/forecasting_visualization.png)
+![JPFA Stock Price Forecasting](images/ForecastJPFA.JK.png.png)
 
 *Figure: Actual Stock Prices, Testing Predictions, and Out-of-Sample Forecasting of JPFA.*
 
