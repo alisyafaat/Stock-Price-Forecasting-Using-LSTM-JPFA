@@ -109,7 +109,7 @@ The following visualization presents the forecasting results generated using the
 
 
 
-![JPFA Stock Price Forecasting](https://raw.githubusercontent.com/alisyafaat/Stock-Price-Forecasting-Using-LSTM-JPFA/main/images/ForecastJPFA.JK.png)
+![JPFA Stock Price Forecasting](https://raw.githubusercontent.com/alisyafaat/Stock-Price-Forecasting-Using-LSTM-JPFA/main/image/ForecastJPFA.JK.png)
 
 *Figure: Actual Stock Prices, Testing Predictions, and Out-of-Sample Forecasting of JPFA.*
 
